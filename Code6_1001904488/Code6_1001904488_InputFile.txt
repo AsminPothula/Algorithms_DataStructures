@@ -1,0 +1,30 @@
+Mickey Mouse|Steamboat Willie|M|632.5|1928|3
+Minnie Mouse|Steamboat Willie|F|589.2|1928|2
+Cinderella|Cinderella|F|653.4|1950|5
+Belle|Beauty and the Beast|F|784.6|1991|4
+Snow White|Snow White and the Seven Dwarfs|F|897.2|1937|4
+Jasmine|Aladdin|F|611.3|1992|3
+Aladdin|Aladdin|M|764.9|1992|4
+Moana|Moana|F|678.3|2016|4
+Maui|Moana|M|745.1|2016|1
+Elsa|Frozen|F|1325.4|2013|6
+Anna|Frozen|F|1198.9|2013|6
+Rapunzel|Tangled|F|594.6|2010|3
+Maleficent|Maleficent|F|736.8|2014|3
+Mowgli|The Jungle Book|M|421.7|1967|1
+Aurora|Sleeping Beauty|F|427.8|1959|2
+Mulan|Mulan|F|536.8|1998|3
+Tiana|The Princess and the Frog|F|543.7|2009|3
+Merida|Brave|F|682.5|2012|4
+Simba|The Lion King|M|987.6|1994|4
+Nemo|Finding Nemo|M|866.4|2003|2
+Dory|Finding Nemo|F|764.8|2003|4
+Mr. Incredible|The Incredibles|M|895.0|2004|2
+Elastigirl|The Incredibles|F|782.3|2004|3
+Ariel|The Little Mermaid|F|765.1|1989|6
+Donald Duck|The Wise Little Hen|M|489.8|1934|1
+Goofy|Orphan's Benefit|M|421.4|1932|2
+Daisy Duck|Mr. Duck Steps Out|F|556.7|1940|1
+Pluto|Mickey's Revue|M|376.3|1930|0
+Buzz Lightyear|Toy Story|M|940.2|1995|3
+Woody|Toy Story|M|983.5|1995|2

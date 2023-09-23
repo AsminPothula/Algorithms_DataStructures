@@ -1,0 +1,11 @@
+typedef struct DisneyCharacter
+{
+    char *name;
+    char *movie;
+    char gender;
+    float movieCollections; 
+    int debutYear;
+    int numberOfSongs;
+    struct DisneyCharacter *next_ptr;
+}
+DISNEY_CHARACTER;
